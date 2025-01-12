@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 017cfe9f23532364da60a8abfcad8ec1, type: 3}
+  m_Name: PurpleBlockSpriteData
+  m_EditorClassIdentifier: 
+  defaultSprite: {fileID: 21300000, guid: 4530bf12f211fed4385f0fa82f6b5331, type: 3}
+  firstConditionSprite: {fileID: 21300000, guid: 5f12c8f271363b842a6305e31a7aa12e, type: 3}
+  secondConditionSprite: {fileID: 21300000, guid: cb012fbc20b9b044f9393313703bd5d9, type: 3}
+  thirdConditionSprite: {fileID: 21300000, guid: cc3f7d128d316cc45b0d574096f20d64, type: 3}
